@@ -1,0 +1,2 @@
+dataset,max_rel_err_full,mean_rel_err_full,max_rel_err_batch
+spiral,7.4216703199355674e-09,1.0643777483775869e-09,2.034137653116031e-08

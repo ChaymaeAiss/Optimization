@@ -1,0 +1,2 @@
+dataset,max_rel_err_fd,max_rel_err_fd_batch,max_abs_diff_vs_naive_nxKxd
+blobs,7.941012072255695e-10,1.1241283280684706e-08,3.3306690738754696e-16

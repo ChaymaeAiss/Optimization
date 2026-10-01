@@ -1,0 +1,38 @@
+{
+ "CFG": {
+  "reg_epochs_full": 1500,
+  "reg_epochs_mb": 150,
+  "reg_batch": 32,
+  "clf_epochs_full": 1000,
+  "clf_epochs_mb": 150,
+  "clf_batch": {
+   "spiral": 32,
+   "iris": 16
+  },
+  "img_epochs": 8,
+  "img_tune_epochs": 3,
+  "img_batch": 1024,
+  "img_mon_n": 10000,
+  "clu_csv_epochs_full": 300,
+  "clu_csv_epochs_mb": 100,
+  "clu_csv_batch": 64,
+  "lloyd_csv_iters": 50,
+  "clu_img_epochs": 8,
+  "clu_img_tune_epochs": 3,
+  "clu_img_batch": 2048,
+  "lloyd_img_iters": 20,
+  "tau_csv": 0.25,
+  "tau_img": 5.0,
+  "img_subsample": null
+ },
+ "SEEDS": [
+  42,
+  123,
+  2024
+ ],
+ "QUICK": false,
+ "numpy": "2.1.3",
+ "pandas": "2.2.3",
+ "matplotlib": "3.10.0",
+ "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]"
+}
